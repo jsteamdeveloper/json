@@ -1,0 +1,330 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Popular Song (Online)",
+      "image": "file:///android_asset/image/khalid.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Popular Song (Offline)",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Kids Song",
+      "image": "file:///android_asset/image/kim.jpeg"
+    }
+    
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Popular Song (Online)",
+      "title": "Have Yourself A Merry Little Christmas",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track1.mp3",
+      "duration": "101",
+      "lyrics": "<strong>Have Yourself A Merry Little Christmas</strong><br /><br /><div>Have yourself a merry little Christmas<br />Let your heart be light<br />From now on<br />Our troubles will be out of sight<br /><br />Have yourself a merry little Christmas<br />Make the Yuletide gay<br />From now on<br />Our troubles will be miles away<br /><br />Here we are as in olden days<br />Happy golden days of yore<br />Faithful friends who are dear to us<br />Gather near to us once more<br /><br />Through the years<br />We all will be together<br />If the fates allow<br />Hang a shining star upon the highest bough<br />And have yourself a merry little Christmas now<br /><br />Faithful friends who are dear to us<br />Gather near to us once more<br /><br />Through the years<br />We all will be together<br />If the fates allow<br />So hang a shining star upon the highest bough<br />And have yourself a merry little Christmas now</div></div>"
+    },
+    {
+      "id": 2,
+      "name_category": "Popular Song (Online)",
+      "title": "Its Beginning to Look a Lot Like Christmas",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track2.mp3",
+      "duration": "101",
+      "lyrics": "<div class=>Its beginning to look a lot like Christmas<br />Everywhere you go<br />Take a look in the five-and-ten<br />Glistening once again<br />With candy canes and silver lanes aglow<br /><br />It's beginning to look a lot like Christmas<br />Toys in every store<br />But the prettiest sight to see<br />Is the holly that will be<br />On your own front door<br /><br />A pair of hop along boots and a pistol that shoots<br />Is the wish of Barney and Ben<br />Dolls that will talk and will go for a walk<br />Is the hope of Janice and Jen<br />And mom and dad can hardly wait for school to start again<br /><br />It's beginning to look a lot like Christmas (Christmas)<br />Everywhere you go<br />Now there's a tree in the Grand Hotel<br />One in, the park as well<br />The sturdy kind that doesn't mind the snow<br /><br />It's beginning to look a lot like Christmas<br />Soon all the bells will start<br />And the thing that will make them ring<br />Is the carol that you sing<br />Right within your heart<br /><br />Hmm, hmmm<br /><br />Oh, it's beginning to look a lot like Christmas (Christmas)<br />Soon the bells will start<br />And the thing that will make them ring<br />Is the carol that you sing<br />Right within your heart<br /><br />It's beginning to look a lot like Christmas (Christmas)<br /><br />Christmas (Christmas)<br />Christmas (Christmas)<br />Mmm</div>" 
+    },
+    {
+      "id": 3,
+      "name_category": "Popular Song (Online)",
+      "title": "Jingle Bell Rock",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track3.mp3",
+      "duration": "101",
+      "lyrics": "<div>Jingle bell jingle bell jingle bell rock<br />Jingle bells swing and jingle bells ring<br />Snowing and blowing up bushels of fun<br />Now the jingle hop has begun<br /><br />Jingle bell jingle bell jingle bell rock<br />Jingle bells chime in jingle bell time<br />Dancing and prancing in Jingle Bell Square<br />In the frosty air<br /><br />What a bright time, it's the right time<br />To rock the night away<br />Jingle bell time is a swell time<br />To go gliding in a one-horse sleigh<br /><br />Giddy-up jingle horse, pick up your feet<br />Jingle around the clock<br />Mix and a-mingle in the jingling feet<br /><br />That's the jingle bell rock<br /><br />Jingle bell, jingle bell jingle bell rock<br />Jingle bells chime in jingle bell time<br />Dancing and prancing in Jingle Bell Square<br />In the frosty air.<br /><br />Jingle bell, jingle bell jingle bell rock<br />Jingle bells chime in jingle bell time<br />Snowing and blowing up bushels of fun<br />Now the jingle hop has begun<br /><br />Jingle bell, jingle bell jingle bell rock<br />Jingle bells chime in jingle bell time<br />Dancing and prancing in Jingle Bell Square<br />In the frosty air.<br /><br />What a bright time its the right time<br />To rock the night away (Rock the night away)<br />Jingle bell time is a swell time<br />To go gliding in a one-horse sleigh<br />Giddy-up jingle horse, pick up your feet<br />Jingle around the clock<br /><br />Mix and a-mingle in the jingling feet<br />Thats the jingle bell<br />Thats the jingle bell<br />Thats the jingle bell&nbsp;<br /><br />Jingle bell jingle bell jingle bell rock<br /><br />Jingle bell jingle bell&nbsp; jingle bell rock<br />Jingle bell&nbsp; jingle bell jingle bell rock</div>" 
+    },
+    {
+      "id": 4,
+      "name_category": "Popular Song (Online)",
+      "title": "Last Christmas",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track4.mp3",
+      "duration": "101",
+      "lyrics": "<p>Ah aha<br />Ooh ohh<br />Ohh<br /><br />Last Christmas I gave you my heart<br />But the very next day you gave it away<br />This year to save me from tears<br />Ill give it to someone special<br />Last Christmas I gave you my heart<br />But the very next day you gave it away You gave it away<br />This year to save me from tears<br />Ill give it to someone special Special<br /><br /><br />Once bitten and twice shy<br />I keep my distance but you still catch my eye<br />Tell me baby do you recognize me?<br />Well its been a year it doesnt surprise me<br /><br />Merry Christmas I wrapped it up and sent it<br />With a note saying I love you I meant it<br />Now I know what a fool Ive been<br />But if you kissed me now I know youd fool me again<br /><br />Last Christmas I gave you my heart<br />But the very next day you gave it away You gave it away<br />This year to save me from tears<br />Ill give it to someone special Special<br />Last Christmas I gave you my heart<br />But the very next day you gave it away<br />This year to save me from tears<br />Ill give it to someone special Special oh<br />Oh oh baby<br /><br />A crowded room friends with tired eyes<br />Im hiding from you and your soul of ice<br />My God I thought you were someone to rely on<br />Me? I guess I was a shoulder to cry on<br /><br />A face of a lover with a fire in his heart<br />A man under cover but you tore me apart<br />Ooh-hoo<br />Now Ive found a real love youll never fool me again<br /><br />Last Christmas I gave you my heart<br />But the very next day you gave it away You gave it away<br />This year to save me from tears<br />Ill give it to someone special Special<br />Last Christmas I gave you my heart<br />But the very next day you gave it away<br />This year to save me from tears Ohh<br />Ill give it to someone special Special<br /><br />A face of a lover with a fire in his heart I gave you my heart<br />A man under cover but you tore him apart<br />Maybe next year<br />Ill give it to someone Ill give it to someone special<br />Special<br />Someone someone Ill give it to someone someone special<br /><br />Who give me something in return<br />Ill give it to someone<br />Hold my heart and watch it burn<br />Ill give it to someone<br /><br />Ill give it to someone<br />Ill give it to someone special<br /><br />I thought you were here to stay Oh oh<br />How could you love me for a day<br />I thought you were someone special<br /><br />Gave you my heart<br /><br />Ill give it to someone<br />Ill give it to someone<br /><br />Last Christmas<br />I gave you my heart<br />You gave it away<br /><br />Ill give it to someone<br />Ill give it to someone<br /><br />La la<br />La la la la la<br />La la<br />La la la la<br />La la la la la la la</p>" 
+    },
+    {
+      "id": 5,
+      "name_category": "Popular Song (Online)",
+      "title": "Let It Snow",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track5.mp3",
+      "duration": "101",
+      "lyrics": "<p>Oh, the weather outside is frightful<br />But fire is so delightful<br />And since we've no place to go<br />Let it snow, let it snow, let it snow<br />Now it doesn't show signs of stoppin'<br />And I've brought some corn for poppin'<br />All the lights are turned way down low<br />Let it snow, let it snow, let it snow<br /><br />When we finally kiss goodnight<br />How I hate going out in the storm<br />But if you really hold me tight<br />All the way home, I'll be warm<br /><br />Now, the fire is slowly dyin'<br />My dear, we're still goodbye-ing<br />Well as long as you love me so<br />Let it snow, let it snow, let it snow<br />Oh, it doesn't show signs of stoppin'<br />And I've brought some corn for poppin'<br />All the lights are turned way down low<br />Let it snow, let it snow, let it snow<br />Oh, let it snow<br /><br />When we finally kiss goodnight<br />How I hate going out in the storm<br />But if you really hold me tight<br />All the way home, I'll be warm<br />All the way home, I'll be warm<br /><br />The fire is slowly dyin'<br />And my dear, we're still goodbye-ing<br />Well, as long as you love me so<br />Let it snow, let it snow, let it snow<br />Let it snow, let it snow, let it snow<br />Let it snow, let it snow, let it snow</p>" 
+    },
+    {
+      "id": 6,
+      "name_category": "Popular Song (Online)",
+      "title": "Like Its Christmas",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track6.mp3",
+      "duration": "101",
+      "lyrics": "<div>Dum-dum-dum-dum<br /><br />There's snow on the ground, love in the air, sleigh bells are ringin'<br />This is what it's all about, the fire is warm, the angels are singin'<br /><br />And I don't wanna miss a single thing<br />Don't wanna put an end to all this cheer<br />But as long as you're with me<br />It's always that time of the year<br /><br />You make every day feel like it's Christmas, never wanna stop<br />Feelin' like the first thing on your wish list, right up at the top<br />I can't deny what I'm feelin' inside<br />Nothin' fake about the way you bring me to life<br />You make every day feel like it's Christmas<br />Every day that I'm with you<br /><br />Look at the lights, twinklin' bright twenty-four/seven<br />Every inch of Central Park is covered in white, this could be heaven<br /><br />And I don't wanna miss a single thing<br />Don't wanna put an end to all this cheer<br />But as long as you're with me<br />It's always that time of the year, yeah (Woo)<br /><br />You make every day feel like it's Christmas (Like it's Christmas), never wanna stop<br />Feelin' like the first thing on your wish list, right up at the top<br />I can't deny what I'm feelin' inside<br />Nothin' fake about the way you bring me to life<br />You make every day feel like it's Christmas<br />Every day that I'm with you<br /><br />Woo, woo, woo, yeah (Every day that I'm with you)<br />Every day, every night (Oh, oh, all day)<br /><br />You make every day feel like it's Christmas, never wanna stop<br />Feelin' like the first thing on your wish list, right up at the top (And I can't deny)<br />I can't deny what I'm feelin' inside<br />Nothin' fake about the way you bring me to life<br />You make every day feel like it's Christmas<br />Every day that I'm with you<br /><br />Hey, hey, yeah, every day, la-la-la<br />I can't deny what I'm feelin' inside<br />No matter the reason, no matter the season<br />My heart'll keep beatin', you better believe<br />You make every day feel like it's Christmas (Like it's Christmas)<br />Every day that I'm with you (Oh-oh-oh, oh-oh-oh, oh-oh-oh)<br />Every day that I'm with you (Oh-oh-oh, oh-oh-oh, oh-oh-oh)<br />Every day that I'm with you</div>" 
+    },
+    {
+      "id": 7,
+      "name_category": "Popular Song (Online)",
+      "title": "Merry Christmas Everybody",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track7.mp3",
+      "duration": "101",
+      "lyrics": "<p>Are you hanging up a stocking on your wall?<br />It's the time that every Santa has a ball<br />Does he ride a red-nosed reindeer?<br />Does a ton-up on his sleigh?<br />Do the fairies keep him sober for a day?<br /><br />So here it is, Merry Christmas<br />Everybody's having fun<br />Look to the future now<br />It's only just begun<br /><br />Are you waiting for the family to arrive?<br />Are you sure you got the room to spare inside?<br />Does your granny always tell ya<br />That the old songs are the best?<br />Then she's up and rock and rollin' with the rest<br /><br />So here it is Merry Christmas<br />Everybody's having fun<br />Look to the future now<br />It's only just begun<br /><br />What will your daddy do<br />When he sees your mama kissin' Santa Claus?<br />Ah-ha<br />Are you hanging up a stocking on your wall?<br />Are you hoping that the snow will start to fall?<br />Do you ride on down the hillside<br />In a buggy you have made?<br />When you land upon your head, then you been slayed<br /><br />So here it is Merry Christmas<br />Everybody's having fun<br />Look to the future now<br />It's only just begun<br /><br />So here it is Merry Christmas<br />Everybody's having fun<br />Look to the future now<br />It's only just begun<br /><br />So here it is Merry Christmas<br />Everybody's having fun (it's Christmas)<br />Look to the future now<br />It's only just begun</p>" 
+    },
+    {
+      "id": 8,
+      "name_category": "Popular Song (Online)",
+      "title": "Mistletoe",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track8.mp3",
+      "duration": "101",
+      "lyrics": "<div>It&rsquo;s the most beautiful time of the year<br />Lights fill the streets spreading so much cheer<br />I should be playing in the winter snow<br />But I'mma be under the mistletoe<br /><br />I don&rsquo;t wanna miss out on the holiday<br />But I can&rsquo;t stop staring at your face<br />I should be playing in the winter snow<br />But I&rsquo;mma be under the mistletoe<br /><br />With you, shawty with you<br />With you, shawty with you<br />With you under the mistletoe<br /><br />Everyone's gathering around the fire<br />Chestnuts roasting like a hot July<br />I should be chilling with my folks, I know<br />But I&rsquo;mma be under the mistletoe<br /><br />Word on the street Santa's coming tonight,<br />Reindeer's flying through the sky so high<br />I should be making a list, I know<br />But I&rsquo;mma be under the mistletoe<br /><br />With you, shawty with you<br />With you, shawty with you<br />With you under the mistletoe<br /><br />With you, shawty with you<br />With you, shawty with you<br />With you under the mistletoe<br /><br />Aye, love, the wise men followed the star<br />The way I followed my heart<br />And it led me to a miracle<br /><br />Aye, love, don't you buy me nothing<br />'cause I am feeling one thing, your lips on my lips<br />That&rsquo;s a merry, merry Christmas<br /><br />It&rsquo;s the most beautiful time of the year<br />Lights fill the streets spreading so much cheer<br />I should be playing in the winter snow<br />But I&rsquo;mma be under the mistletoe<br /><br />I don&rsquo;t wanna miss out on the holiday<br />But I can&rsquo;t stop staring at your face<br />I should be playing in the winter snow<br />But I&rsquo;mma be under the mistletoe<br /><br />With you, shawty with you<br />With you, shawty with you<br />With you under the mistletoe<br /><br />With you, shawty with you<br />With you, shawty with you<br />With you, under the mistletoe, under the mistletoe<br /><br />Kiss me underneath the mistletoe<br />Show me baby that you love me so-oh-oh<br />Oh, oh, ohhh<br /><br />Kiss me underneath the mistletoe,<br />Show me baby that you love me so-oh-oh<br />Oh, oh, ohhh</div>" 
+    },
+    {
+      "id": 9,
+      "name_category": "Popular Song (Online)",
+      "title": "All I Want For Christmas Is You",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track16.mp3",
+      "duration": "101",
+      "lyrics": "<p>I don't want a lot for Christmas<br />There is just one thing I need<br />I don't care about the presents<br />Underneath the Christmas tree<br /><br />I just want you for my own<br />More than you could ever know<br />Make my wish come true<br />All I want for Christmas is you, yeah<br /><br />I don't want a lot for Christmas<br />There is just one thing I need<br />And I don't care about the presents<br />Underneath the Christmas tree<br /><br />I don't need to hang my stocking<br />There upon the fireplace<br />Santa Claus won't make me happy<br />With a toy on Christmas Day<br /><br />I just want you for my own<br />More than you could ever know<br />Make my wish come true<br />All I want for Christmas is you<br />You, baby<br /><br />Oh, I won't ask for much this Christmas<br />I won't even wish for snow<br />And I'm just gonna keep on waiting<br />Underneath the mistletoe<br /><br />I won't make a list and send it<br />To the North Pole for Saint Nick<br />I won't even stay awake to<br />Hear those magic reindeer click<br /><br />'Cause I just want you here tonight<br />Holding on to me so tight<br />What more can I do?<br />Baby, all I want for Christmas is you<br />You, baby<br /><br />Oh, all the lights are shining so brightly everywhere<br />And the sound of children's laughter fills the air<br /><br />And everyone is singing<br />I hear those sleigh bells ringing<br />Santa, won't you bring me the one I really need?<br />Won't you please bring my baby to me?<br /><br />Oh, I don't want a lot for Christmas<br />This is all I'm asking for<br />I just wanna see my baby<br />Standing right outside my door<br /><br />Oh, I just want you for my own<br />More than you could ever know<br />Make my wish come true<br />Baby, all I want for Christmas is you<br />You, baby<br /><br />All I want for Christmas is you, baby</p>" 
+    },
+    {
+      "id": 10,
+      "name_category": "Popular Song (Online)",
+      "title": "Christmas In My Heart",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track17.mp3",
+      "duration": "101",
+      "lyrics": "<p>Hold up I am on my way, I'm in motion<br />Let's go to the ocean<br />Yeah, let's go outside<br />We can hang out on the beach without freezing<br />Yeah, isn't that amazing<br />In Christmas times<br /><br />We'll be chilling and having a good good time<br /><br />Doesn't matter if the snow is falling<br />Or the wind blows and the rain is pouring<br />It will always be Christmas in my heart<br />But this year I<br />Wanna hang out with my friends and family<br />Making angels in the sand, you and me<br />Doesn't matter, it is Christmas in my heart<br /><br />And I can promise Santa's coming to visit<br />No, he wouldn't miss this<br />In Christmas times<br />Oh and, the sunset it is just getting better on a<br />Blanket with the skyline painted in blue<br />Ooh ooh ooh, that's what we do<br /><br />We'll be chilling and having a good good time<br /><br />Doesn't matter if the snow is falling<br />Or the wind blows and the rain is pouring<br />It will always be Christmas in my heart<br />But this year I<br />Wanna hang out with my friends and family<br />Making angels in the sand, you and me<br />Doesn't matter, it is Christmas in my heart<br /><br />Dance, dance, dance, dance, dance<br />We're gonna dance, dance, dance, dance, dance<br />We're gonna dance (dance), dance (dance), have a good time<br />We're gonna dance (dance), dance (dance), all night long<br />We're gonna dance (dance), dance (dance), have a good time<br />I think Santa's gonna come and join us in this song<br /><br />Doesn't matter if the snow is falling<br />Or the wind blows and the rain is pouring<br />It will always be Christmas in my heart<br />But this year I<br />Wanna hang out with my friends and family<br />Making angels in the sand, you and me<br />Doesn't matter it is Christmas in my heart</p>" 
+    },
+    {
+      "id": 11,
+      "name_category": "Popular Song (Online)",
+      "title": "Driving Home for Christmas",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track18.mp3",
+      "duration": "101",
+      "lyrics": "<p>I'm driving home for Christmas<br />Oh, I can't wait to see those faces<br />I'm driving home for Christmas, yeah<br />Well I'm moving down that line<br />And it's been so long<br />But I will be there<br />I sing this song<br />To pass the time away<br />Driving in my car<br />Driving home for Christmas<br /><br />It's gonna take some time<br />But I'll get there<br />Top to toe in tailbacks<br />Oh, I got red lights all around<br />But soon there'll be a freeway, yeah<br />Get my feet on holy ground<br /><br />So I sing for you<br />Though you can't hear me<br />When I get through<br />And feel you near me<br />(Driving in my car)<br />I'm driving home for Christmas<br />Driving home for Christmas<br />With a thousand memories<br /><br />I take look at the driver next to me<br />He's just the same<br />Just the same<br /><br />Top to toe in tailbacks<br />Oh, I got red lights all around<br />I'm driving home for Christmas, yeah<br />Get my feet on holy ground<br />So I sing for you<br />Though you can't hear me<br />When I get through<br />Oh, and feel you near me<br />Driving in my car<br />Driving home for Christmas<br />Driving home for Christmas<br />With a thousand memories<br /><br />I take look at the driver next to me<br />He's just the same<br />He's driving home, driving home<br />Driving home for Christmas</p>" 
+    },
+    {
+      "id": 12,
+      "name_category": "Popular Song (Online)",
+      "title": "Fall in Love at Christmas",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalsong/track19.mp3",
+      "duration": "101",
+      "lyrics": "<p>The days are cold<br />Here amidst the drifts of snow<br />Just a metaphor of us<br />So many Christmases ago<br />We had a love so deep<br />Just like the joy the season brings<br />So let's fall in love again this Christmas night<br />Ah, ah-ah<br /><br />And every Christmas, I'll be there<br />This time of year, we're both aware<br />We gotta fall in love again at Christmastime<br />And all the angels in the sky<br />Shine down on us as we roll by<br />We gotta fall in love again at Christmastime<br /><br />In the candle's glow<br />I'm awake, but no one knows<br />Just waiting patiently to hear the sleigh bells jingle, there they go<br />And while the Northern Star lights the way, I dream of us<br />So let's fall in love again this Christmas night<br /><br />And every Christmas, I'll be there<br />This time of year, we're both aware<br />We gotta fall in love again at Christmastime<br />And all the angels in the sky<br />Shine down on us as we roll by<br />We gotta fall in love again at Christmastime<br /><br />Fa-la-la, fall in love with the feeling<br />Fa-la-la, fall in love, trust, believe<br />We can fall in love again at Christmastime<br />Help me sing it again, yeah<br />Fa-la-la, fall in love, 'tis the season<br />Don't forget there's a reason<br />We gotta fall in love again at Christmastime<br />Oh, baby, we gotta fall<br /><br />Christmas, I'll be there<br />This time of year, we're both aware<br />We gotta fall in love again at Christmastime<br />And all the angels in the sky<br />Shine down on us as we roll by<br />We gotta fall in love again this Christmastime<br />Oh, baby, we gotta fall (We gotta fall)<br />In love at Christmastime<br /><br />Pom-pom, pom-pom-pom-pom-pom-pom-pom<br />Pom-pom, pom-pom-pom-pom-pom-pom-pom<br />Let's go<br />I say we pray (Oh, come on)<br />Pray that we will find (We will find, pray that you'll find)<br />A love for all mankind (All mankind, all mankind)<br />This Christmastime (What the world really needs)<br />We all need grace (We all need)<br />To heal our troubled minds (Grace)<br />It's not that hard to find (This Christmas)<br />This Christmastime (This Christmastime)<br />Everyone together, we pray (Come on)<br />Pray that we will find (Unconditional love)<br />A love for all mankind (Mankind, here and now, y'all)<br />This Christmastime<br />We all need grace upon, grace upon, grace upon<br />Heal our trouble minds<br />It's not that hard to find<br />This Christmastime<br />Listen, more than ever before<br />Love needs to be somethin' we do, not somethin' we say<br />This holiday season, let's give love away (This Christmas)</p>" 
+    },
+    {
+      "id": 1,
+      "name_category": "Popular Song (Offline)",
+      "title": "O Holy Night",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "mp3/merry1.mp3",
+      "duration": "54",
+      "lyrics": "<p>O Holy night, the stars are brightly shining<br />It is the night of our dear Savior's birth<br />Long lay the world in sin and error pining<br />'Til He appeared and the soul felt its worth<br />A thrill of hope the weary world rejoices<br />For yonder breaks a new and glorious morn<br /><br />Fall on your knees<br />O hear the angel voices<br />O night divine!<br />O night when Christ was born<br />O night divine!<br />O night, O night divine!<br /><br />Truly He taught us to love one another<br />His law is love and His gospel is peace<br />Chains shall He break, for the slave is our brother<br />And in His name, all oppression shall cease<br />Sweet hymns of joy in grateful chorus raise we<br />Let all within us praise His holy name<br /><br />Christ is the Lord!<br />Their name forever praise we<br />Noel, Noel<br />O night, O night divine!<br />Noel, Noel<br />O night, O night divine!<br />Noel, Noel<br />O night, O holy night</p>" 
+    },
+    {
+      "id": 2,
+      "name_category": "Popular Song (Offline)",
+      "title": "Santa Tell Me",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "mp3/merry2.mp3",
+      "duration": "54",
+      "lyrics": "<p>Santa, tell me if you're really there<br />Don't make me fall in love again if he won't be here<br />Next year<br />Santa, tell me if he really cares<br />'Cause I can't give it all away if he won't be here<br />Next year<br /><br />Feeling Christmas all around<br />And I'm tryna play it cool<br />But it's hard to focus when I see him walking 'cross the room<br />"Let It Snow" is blasting out<br />But I won't get in the mood<br />I'm avoiding every mistletoe until I know<br />It's true love that he thinks of<br />So next Christmas<br />I'm not all alone, boy<br /><br />Santa, tell me if you're really there<br />Don't make me fall in love again if he won't be here<br />Next year<br />Santa, tell me if he really cares<br />'Cause I can't give it all away if he won't be here<br />Next year<br /><br />I've been down this road before<br />Fell in love on Christmas night<br />But on New Year's Day I woke up and he wasn't by my side<br />Now I need someone to hold<br />Be my fire in the cold<br />But it's hard to tell if this is just a fling<br />Or if it's true love that he thinks of<br />So next Christmas<br />I'm not all alone, boy<br /><br />Santa, tell me if you're really there<br />Don't make me fall in love again if he won't be here<br />Next year<br />Santa, tell me if he really cares<br />'Cause I can't give it all away if he won't be here<br />Next year<br /><br />Oh, I wanna have him beside me like oh-oh-oh<br />On the 25th by the fireplace, oh-oh-oh<br />But I don't want a new broken heart<br />This year I've got to be smart<br /><br />Oh, baby<br />(Santa tell me)<br />If ya won't be<br />(Santa tell me)<br />If ya won't be here!<br />(Santa tell me)<br /><br />Santa, tell me if you're really there (Santa tell me)<br />(If you're really there)<br />Don't make me fall in love again if he won't be here<br />Next year (He won't be here next year)<br />Santa, tell me if he really cares (Tell me)<br />(Tell me babe)<br />'Cause I can't give it all away if he won't be here<br />Next year (He won't be here next year)<br /><br />Santa, tell me if you're really there (Tell me)<br />(Tell me baby)<br />Don't make me fall in love again if he won't be here<br />Next year (If he won't be, if he won't be here)<br />Santa, tell me if he really cares (Tell me)<br />(Do you care)<br />'Cause I can't give it all away if he won't be here (He won't be here next year)<br />Next year</p>" 
+    },
+    {
+      "id": 3,
+      "name_category": "Popular Song (Offline)",
+      "title": "Shake Up Christmas",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "mp3/merry3.mp3",
+      "duration": "54",
+      "lyrics": "<p>Ho, ho, ho...<br /><br />Shake up the happiness<br />Wake up the happiness<br />Shake up the happiness<br />It's Christmas time<br /><br />There was a story that I was told<br />And I want to tell the world before I get too old<br />And don't remember it, so let's December it<br />And reassemble it, oh yeah<br /><br />Once upon a time in a town like this<br />A little girl made a great big wish<br />To fill the world full of happiness<br />And be on Santa's magic list<br /><br />Shake it up, shake up the happiness<br />Wake it up, wake up the happiness<br />Come on all, it's Christmas time<br />Shake it up, shake up the happiness<br />Wake it up, wake up the happiness<br />Come on all, it's Christmas time<br />Ho, ho, ho,<br />Ho, ho, ho,<br />It's Christmas time<br /><br />At the same time miles away<br />A little boy made a wish that day<br />That the world would be okay<br />And Santa Clause would hear him say<br />I got dreams and I got love<br />I got my feet on the ground and family above<br />Can you send some happiness with my best<br />To the rest of the people of east and the west<br /><br />And maybe every once in a while<br />You give my grandma a reason to smile<br />'Tis the season to smile<br />It's cold but we'll be freezing in style<br /><br />And let me meet a girl one day<br />That wants to spread some love this way<br />We can let our souls run free<br />And she can open some happiness with me<br /><br />Shake it up, shake up the happiness<br />Wake it up, wake up the happiness<br />Come on all, it's Christmas time<br />Shake it up, shake up the happiness<br />Wake it up, wake up the happiness<br />Come on all, it's Christmas time<br /><br />I know you're out there<br />I hear your reindeer<br />I see the snow where<br />Your boots have been<br /><br />I'm gonna show them<br />So they will know then<br />Then love will grow and<br />They believe again<br /><br />Shake it up (shake it up), shake up the happiness<br />Wake it up, wake up the happiness<br />Come on all, it's Christmas time<br />Shake it up, shake up the happiness<br />Wake it up, wake up the happiness<br />Come on all, it's Christmas time<br />Ho, ho, ho,<br />Ho, ho, ho,<br />It's Christmas time<br /><br />Shake it up, shake up the happiness<br />Wake it up, wake up the happiness<br />Come on all, it's Christmas time<br />Shake it up, shake up the happiness<br />Wake it up, wake up the happiness<br />Come on all, it's Christmas time<br /><br />Ho, ho, ho,<br />Ho, ho, ho,<br />Ho, ho, ho,<br />It's Christmas time</p>" 
+    },
+    {
+      "id": 4,
+      "name_category": "Popular Song (Offline)",
+      "title": "That's Christmas to Me Pentatonix",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "mp3/merry4.mp3",
+      "duration": "54",
+      "lyrics": "<p>The fireplace is burning bright, shining all on me<br />I see the presents underneath the good old Christmas tree<br />And I wait all night 'til Santa comes to wake me from my dreams<br />Oh, why? 'Cause that's Christmas to me<br /><br />I see the children play outside, like angels in the snow<br />While mom and daddy share a kiss under the mistletoe<br />And we'll cherish all these simple things wherever we may be<br />Oh, why? 'Cause that's Christmas to me<br /><br />I've got this Christmas song in my heart<br />I've got the candles glowing in the dark<br />I'm hanging all the stockings by the Christmas tree<br />Oh, why? 'Cause that's Christmas to me<br />Oh, why? 'Cause that's Christmas to me<br /><br />I listen for the thud of reindeer walking on the roof<br />As I fall asleep to lullabies, the morning's coming soon<br />The only gift I'll ever need is the joy of family<br />Oh, why? 'Cause that's Christmas to me<br /><br />I've got this Christmas song in my heart (song in my heart)<br />I've got the candles glowing in the dark<br />I'm hanging all the stockings by the Christmas tree<br />Oh, why? 'Cause that's Christmas to me<br />Oh, why? 'Cause that's Christmas to me<br /><br />Oh<br />Oh<br /><br />Oh, all the joy that fills our hearts and makes us see<br />Oh, why? 'Cause that's Christmas to me<br /><br />I've got this Christmas song in my heart<br />I've got the candles glowing in the dark<br />And then for years to come we'll always know one thing<br />That's the love that Christmas can bring<br />Oh, why? 'Cause that's Christmas to me</p>" 
+    },
+    {
+      "id": 5,
+      "name_category": "Popular Song (Offline)",
+      "title": "What Christmas Means To Me",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "mp3/merry5.mp3",
+      "duration": "54",
+      "lyrics": "<div>Oh yeah...<br />Candles burnin' low,<br />Lots of mistletoe.<br />Lots of snow and ice,<br />Everywhere we go.<br />Choirs singin' carols,<br />Right outside my door.<br /><br />All these things and more<br />(All these things and more)<br />That's what Christmas means to me my love<br />(That's what Christmas means to me my love)<br /><br />Oh yeah,<br />Hey, hey, yeah, yeah, yeah.<br /><br />And ya know what I mean<br />I see your smilin' face<br />Like I never seen before<br />Even though I love ya madly<br />It seems I love you more<br />And little cards you give me<br />Will touch my heart for sure<br /><br />All these things and more, darling<br />(All these things and more)<br />Whoa!<br />That's what Christmas means to me my love<br />(That's what Christmas means to me my love)<br /><br />Oh yeah ha ha!<br />I feel like runnin' wild<br />As anxious as a little child<br />Greet you neath the mistletoe<br />Kiss you once and then some more<br />And wish you a Merry Christmas baby<br />(Wish you a Merry Christmas baby)<br />And such happiness in the comin' year<br />Oh baby<br />Let's deck the halls with holly<br />Sing sweet silent night<br />Fill the tree with angel hair&nbsp;<em>[i.e. tinsel]</em><br />And pretty, pretty lights<br />Go to sleep and wake up<br />Just before daylight<br /><br />All these things and more, baby<br />(All these things and more)<br />Whoa!<br />That's what Christmas means to me my love<br />(That's what Christmas means to me my love)<br />Oh baby baby!<br /><br />Yeah!<br />Candles burnin' low<br />Lots and lots of snow<br />Alright!<br />Christmas bells are ringin'<br />Christmas choirs singin'<br />Woo!<br />Christmas mistletoe...</div>" 
+    },
+    {
+      "id": 6,
+      "name_category": "Popular Song (Offline)",
+      "title": "White Christmas Calssic Songs",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "mp3/merry6.mp3",
+      "duration": "54",
+      "lyrics": "<p>I'm dreaming of a white Christmas<br />Just like the ones I used to know<br />Where the treetops glisten<br />And children listen<br />To hear sleigh bells in the snow<br /><br />I'm dreaming of a white Christmas<br />With every Christmas card I write<br />May your days be merry and bright<br />And may all your Christmases be white<br /><br />I'm dreaming of a white Christmas<br />Just like the ones I used to know<br />Where the treetops glisten<br />And children listen<br />To hear sleigh bells in the snow<br /><br />I'm dreaming of a white Christmas<br />With every Christmas card I write<br />May your days be merry and bright<br />And may all your Christmases be white</p>" 
+    },
+    {
+      "id": 7,
+      "name_category": "Popular Song (Offline)",
+      "title": "Winter Things",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "mp3/merry7.mp3",
+      "duration": "54",
+      "lyrics": "<p>It ain't even cold outside, not where I'm from<br />Feeling like it's mid-July under the sun<br />My jacket don't get no love,<br />No hats and no gloves<br />Not even a chance of rain<br />But my baby's in town,<br />And we're gonna do some winter things<br /><br />Hey-oh, I wanna pretend we're at the North Pole<br />Turning the heat into an ice-cold holiday<br />Made just for me and my baby<br /><br />My baby's in town<br />And we're gonna do some winter things<br />Hey<br /><br />Take me to the ice-skating rink downtown<br />(No, no, no, downtown)<br />Even though it's a hundred degrees, gotta get out<br />Ain't no ice and no chills,<br />No snowmen to build<br />Most of our friends at the beach<br />But my baby's in town,<br />And we're gonna do some winter things<br />Hey<br /><br />Hey-oh, I wanna pretend we're at the North Pole<br />Turning the heat into an ice-cold holiday<br />Made just for me and my baby<br /><br />My baby's in town<br />And we're gonna do some winter things<br />Hey<br /><br />Just imagine that we're laughing<br />In my cabin, chilling by the fireside<br />Even though this sun is blasting<br />We can be wherever if we visualize<br /><br />Hey-oh, I wanna pretend we're at the North Pole<br />Turning the heat into an ice-cold holiday<br />Made just for me and my baby<br /><br />My baby's in town<br />And we're gonna do some winter things<br />Hey</p>" 
+    },
+    {
+      "id": 1,
+      "name_category": "Kids Song",
+      "title": "Jingle Bells",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track1.mp3",
+      "duration": "101",
+      "lyrics": "<p>Dashing through the snow<br />In a one-horse open sleigh,<br />Over the fields we go,<br />Laughing all the way;<br />Bells on bob-tail ring,<br />making spirits bright,<br />What fun it is to ride and sing<br />A sleighing song tonight, O<br /><br />Jingle bells, jingle bells,<br />jingle all the way!<br />O what fun it is to ride<br />In a one-horse open sleigh&nbsp;<em>[repeat]</em><br /><br />Now the ground is white<br />Go it while you're young,<br />Take the girls tonight<br />And sing this sleighing song;<br />Just get a bob-tailed bay<br />two-forty as his speed<br />Hitch him to an open sleigh<br />And crack! You'll take the lead<br /><br />Jingle Bells, Jingle Bells,<br />Jingle all the way!<br />O what fun it is to ride<br />In a one-horse open sleigh.&nbsp;<em>[repeat]</em><br /><br />Hey, Jingle Bells, Jingle Bells,<br />Jingle jingle all the way!<br />O what fun it is to ride<br />In a one-horse open sleigh.<br />Jingle Bells, Jingle Bells,<br />Jingle jingle all the way!<br />O what fun it is to ride<br />In a one-horse open sleigh.<br />Jingle bells, jingle all the way!<br />O what fun it is to ride<br />In a one-horse open sleigh.<br />Jingle bells, jingle all the way!<br />O what fun it is to ride<br />In a one-horse open sleigh.<br /><br />I'm just crazy about horses</p>" 
+    },
+    {
+      "id": 2,
+      "name_category": "Kids Song",
+      "title": "O Christmas Tree",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track2.mp3",
+      "duration": "101",
+      "lyrics": "<p>O Christmas Tree! O Christmas Tree!<br />Thy leaves are so unchanging;<br />O Christmas Tree! O Christmas Tree!<br />Thy leaves are so unchanging;<br />Not only green when summer's here,<br />But also when 'tis cold and drear.<br />O Christmas Tree! O Christmas Tree!<br />Thy leaves are so unchanging!<br /><br />O Christmas Tree! O Christmas Tree!<br />Much pleasure thou can'st give me;<br />O Christmas Tree! O Christmas Tree!<br />Much pleasure thou can'st give me;<br />How often has the Christmas tree<br />Afforded me the greatest glee!<br />O Christmas Tree! O Christmas Tree!<br />Much pleasure thou can'st give me.<br /><br />O Christmas Tree! O Christmas Tree!<br />Thy candles shine so brightly!<br />O Christmas Tree! O Christmas Tree!<br />Thy candles shine so brightly!<br />From base to summit, gay and bright,<br />There's only splendor for the sight.<br />O Christmas Tree! O Christmas Tree!<br />Thy candles shine so brightly!<br /><br />O Christmas Tree! O Christmas Tree!<br />How richly God has decked thee!<br />O Christmas Tree! O Christmas Tree!<br />How richly God has decked thee!<br />Thou bidst us true and faithful be,<br />And trust in God unchangingly.<br />O Christmas Tree! O Christmas Tree!<br />How richly God has decked thee!</p>" 
+    },
+    {
+      "id": 3,
+      "name_category": "Kids Song",
+      "title": "Christmas Bells",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track3.mp3",
+      "duration": "101",
+      "lyrics": "<p>Ring Christmas bells<br />Merrily ring<br />Tell all the world<br />Jesus is king<br />Loudly proclaim<br />With one accord<br />The happy tale<br />Welcome the lord<br /><br />Ring Christmas bells<br />Sound far and near<br />The birthday of<br />Jesus is here<br />Herald the news<br />To old and young<br />Tell it to all<br />In every tongue<br /><br />Ring Christmas bells<br />Toll loud and long<br />Your message sweet<br />Heal and prolong<br />Come all you people<br />Join in the singing<br />Repeat the story<br />Told by the ringing<br /><br />Ring, ring, and ring Christmas bells<br />Ring, ring, and ring Christmas bells<br /><br />Loudly proclaim<br />With one accord<br />The happy tale<br />Welcome the lord<br /><br />Ring Christmas bells<br />Ring Christmas bells<br />Merrily ring<br />Tell all the world<br /><br />Loudly proclaim<br />With one accord<br />The happy tale<br />Welcome the lord<br /><br />Ring Christmas bells<br />Sound far and near<br />The birthday of<br />Jesus is here<br />Herald the news<br />To old and young<br />Tell it to all<br />In every tongue<br /><br />Ring Christmas bells<br />Toll loud and long<br />Your message sweet<br />Heal and prolong<br />Come all you people<br />Join in the singing<br />Repeat the story<br />Told by the ringing<br /><br />Ring, ring, and ring Christmas bells<br />Ring, ring, and ring Christmas bells<br /><br />Loudly proclaim<br />With one accord<br />The happy tale<br />Welcome the lord<br /><br />Ring Christmas bells<br />Ring Christmas bells<br />Merrily ring<br />Tell all the world<br />Jesus is king</p>" 
+    },
+    {
+      "id": 4,
+      "name_category": "Kids Song",
+      "title": "Rudolph The Red Nosed Reindeer",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track4.mp3",
+      "duration": "101",
+      "lyrics": "<p>You know Dasher and Dancer<br />And Prancer and Vixen,<br />Comet and Cupid<br />And Donner and Blitzen.<br />But do you recall<br />The most famous reindeer of all?<br /><br />Rudolph the red-nosed reindeer<br />Had a very shiny nose<br />And if you ever saw it<br />You would even say it glows<br /><br />All of the other reindeer<br />Used to laugh and call him names<br />They never let poor Rudolph<br />Join in any reindeer games<br /><br />Then one foggy Christmas Eve<br />Santa came to say<br />Rudolph with your nose so bright<br />Won't you guide my sleigh tonight?<br /><br />Then all the reindeer loved him<br />And they shouted out with glee<br />Rudolph the red-nosed reindeer<br />You'll go down in history!</p>" 
+    },
+    {
+      "id": 5,
+      "name_category": "Kids Song",
+      "title": "Santa Claus Is Coming To Town",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track5.mp3",
+      "duration": "101",
+      "lyrics": "<div>You better watch out<br />You better not cry<br />Better not pout<br />I'm telling you why<br />Santa Claus is comin' to town, gather 'round<br /><br />He's making a list<br />And checking it twice;<br />He's gonna find out who's naughty and nice<br />Santa Claus is comin' to town<br /><br />(He sees you when you're sleeping)<br />(He knows when you're awake)<br />He knows if you've been bad or good<br />{So be good for goodness sake}!<br /><br />{You better watch out}!<br />{You better not cry}<br />{Better not pout}<br />{I'm telling you why}<br />Santa Claus is comin' to town<br /><br />(Little tin horns, little tin drums)<br />(Rudy-toot-toot and rummy tum tums)<br />(Santa Claus is comin' to town)<br /><br />(And curly head dolls that cuddle and coo),<br />(Elephants, boats and kiddy cars too).<br />(Santa Claus is comin' to town).<br /><br />The kids and girls in boy land<br />Will have a jubilee.<br />They're gonna build a toy land town<br />All around the Christmas tree.<br /><br />(You better watch out), you better not cry).<br />(You better not pout), I'm telling you why).<br />(Santa Claus is comin' to town).<br /><br />(He sees you when you're sleepin')<br />(And he knows when you're awake).<br />He knows when you've been bad or good,<br />So be good for goodness sake!<br /><br />You better watch out!<br />(You better not cry)<br />You better not pout<br />(I'm telling you why)<br />{Santa Claus is comin' to town}<br /><br />{You better watch out}!<br />{You better not cry}<br />{Better not pout}<br />{I'm telling you why}<br />{Santa Claus is comin' to town}<br /><br />You mean, the big fat man with the long white beard<br />(He's comin' to town)</div>" 
+    },
+    {
+      "id": 6,
+      "name_category": "Kids Song",
+      "title": "Santa Shark",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track6.mp3",
+      "duration": "101",
+      "lyrics": "<p>Santa shark!<br />Santa shark!<br />Where is baby shark?<br />Pinkfong!<br />Santa shark,Santa shark.<br />Yes, Pinkfong.<br />Santa's Village!<br />Wow, awesome!<br />Let's go together.<br />Yes, Pinkfong.<br />Hurry now!<br />Go, go, go!<br />Santa sharkSanta shark.<br />Yes, Pinkfong.<br />Eating snow?<br />No, Pinkfong.<br />Telling lies?<br />No, Pinkfong.<br />Open your mouth.<br />Ah, ah, ah!<br />Elf&nbsp;shark,Elf shark.<br />Yes, Pinkfong.<br />Eating tree?<br />No, Pinkfong.<br />Telling lies?<br />No, Pinkfong.<br />Open your mouth.<br />Ah, ah, ah!<br />What's this?<br />It's a candy tree!<br />Yum, yum, yum!<br />Elf shark, Pinkfong.<br />Yes, Santa.<br />Eating candy?<br />Yes, Santa.<br />Eating too much?<br />No, Santa.<br />Have a healthy meal!<br />Vegetable!<br />Vegetable tree?<br />Yum, yum, yum.<br />Yum, yum, yum, yum.<br />Santa's Village<br />Sweet snow<br />Candy tree<br />Vegetable tree<br />Santa Claus<br />Presents<br />Wow, Merry Christmas!</p>" 
+    },
+    {
+      "id": 7,
+      "name_category": "Kids Song",
+      "title": "Silent Night",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track7.mp3",
+      "duration": "101",
+      "lyrics": "<div>Silent night, holy night<br />All is calm, all is bright<br />Round yon Virgin Mother and Child<br />Holy Infant so tender and mild<br />Sleep in heavenly peace<br />Sleep in heavenly peace<br /><br />Silent night, holy night<br />Shepherds quake at the sight<br />Glories stream from heaven afar<br />Heavenly hosts sing Alleluia<br />Christ, the Savior is born<br />Christ, the Savior is born<br /><br />Silent night, holy night<br />Son of God love's pure light<br />Radiant beams from thy holy face<br />With the dawn of redeeming grace<br />Jesus, Lord at thy birth<br />Jesus, Lord at thy birth<br /><br />Silent night, holy night<br />All is calm and all is bright<br />Round yon Virgin Mother and Child<br />Holy Infant so tender and mild<br />Sleep in heavenly peace<br />Sleep in heavenly peace</div>" 
+    },
+    {
+      "id": 8,
+      "name_category": "Kids Song",
+      "title": "The First Noel",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track8.mp3",
+      "duration": "101",
+      "lyrics": "<div>The First Noel, the Angels did say<br />Was to certain poor shepherds in fields as they lay<br />In fields where they may keeping their sheep<br />On a cold winter's night that was so deep.<br />Noel, Noel, Noel, Noel<br />Born is the King of Israel!<br /><br />They looked up and saw a star<br />Shining in the East beyond them far<br />And to the earth it gave great light<br />And so it continued both day and night.<br />Noel, Noel, Noel, Noel<br />Born is the King of Israel!<br /><br />Then entered in those Wise men three<br />Full reverently upon their knee<br />And offered there in His presence<br />Their gold and myrrh and frankincense.<br />Noel, Noel, Noel, Noel<br />Born is the King of Israel!<br />Noel, Noel, Noel, Noel<br />Born is the King of Israel!</div>" 
+    },
+    {
+      "id": 9,
+      "name_category": "Kids Song",
+      "title": "Deck The Halls",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track9.mp3",
+      "duration": "101",
+      "lyrics": "<div>Deck the halls with boughs of holly,<br />Fa la la la la, la la la la.<br />Tis the season to be jolly,<br />Fa la la la la, la la la la.<br /><br />Don we now our gay apparel,<br />Fa la la, la la la, la la la.<br />Troll the ancient Yule tide carol,<br />Fa la la la la, la la la la.<br /><br />See the blazing Yule before us,<br />Fa la la la la, la la la la.<br />Strike the harp and join the chorus.<br />Fa la la la la, la la la la.<br /><br />Follow me in merry measure,<br />Fa la la la la, la la la la.<br />While I tell of Yule tide treasure,<br />Fa la la la la, la la la la.<br /><br />All these stars have come out to shine so bright<br />On this Christmas night (Christmas night)<br />We can share this special time<br />So<br /><br />Deck the halls with boughs of holly,<br />Fa la la la la, la la la la.<br />Tis the season to be jolly,<br />Fa la la la la, la la la la.<br /><br />Sing we joyous, all together,<br />Fa la la la la, la la la la.<br />Hope the north pole gets my letter<br />Fa la la la la, la la la la.<br /><br />Deck the halls (deck the halls)<br />Deck the halls (deck the halls)<br />Fa la la la la, la la la la.</div>" 
+    },
+    {
+      "id": 10,
+      "name_category": "Kids Song",
+      "title": "Twinkle Twinkle Christmas Star",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track10.mp3",
+      "duration": "101",
+      "lyrics": "<p>Twinkle, twinkle,Christmas Star<br />How I wonder what you are<br />Up above the world so high<br />Like a diamond in the sky<br /><br />When the blazing sun is gone<br />When he nothing shines upon<br />Then you show your little light<br />Twinkle, twinkle, all the night<br /><br />Then the traveler in the dark<br />Thanks you for your tiny spark<br />He could not see which way to go<br />If you did not twinkle so<br /><br />In the dark blue sky you keep<br />And often through my curtains peep<br />For you never shut your eye<br />Till the sun is in the sky<br /><br />As your bright and tiny spark<br />Lights the traveler in the dark<br />Though I know not what you are<br />Twinkle, twinkle, little star<br /><br />Twinkle, twinkle, little star<br />How I wonder what you are<br />Up above the world so high<br />Like a diamond in the sky<br /><br />Twinkle, twinkle, Christmas Star<br />How I wonder what you are<br />How I wonder what you are</p>" 
+    },
+    {
+      "id": 11,
+      "name_category": "Kids Song",
+      "title": "We Wish You a Merry Christmas",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track11.mp3",
+      "duration": "101",
+      "lyrics": "<p>Merry Christmas!<br />It's an exciting time.<br />I love the decorations.<br />And play!<br />And presents!<br />And music!<br />Look! Here we come a caroling!<br />Come on!<br />Let's join together!<br /><br />We wish you a merry Christmas,<br />We wish you a merry Christmas,<br />We wish you a merry Christmas<br />And a happy new year.<br /><br />Good tidings we bring<br />To you and your kin.<br />Good tidings for Christmas<br />And a happy new year.<br /><br />We wish you a merry Christmas,<br />We wish you a merry Christmas,<br />We wish you a merry Christmas<br />And a happy new year.<br /><br />Wow, it's so fun!<br />So great!<br />Let's sing all together!<br />Okay! Here we go!<br /><br />We wish you a merry Christmas,<br />We wish you a merry Christmas,<br />We wish you a merry Christmas<br />And a happy new year.<br /><br />Good tidings we bring<br />To you and your kin.<br />Good tidings for Christmas<br />And a happy new year.<br /><br />We wish you a merry Christmas,<br />We wish you a merry Christmas,<br />We wish you a merry Christmas<br />And a happy new year.<br /><br /></p>" 
+    },
+    {
+      "id": 12,
+      "name_category": "Kids Song",
+      "title": "Baby Jesus, We Love You",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track12.mp3",
+      "duration": "101",
+      "lyrics": "<p>I wonder were you cold that night<br />Lying there by Mary's side<br />Taking your first breath<br />I wonder were you scared to death<br /><br />Fully human, fully God<br />Full of wonder and the blood<br />That one day you would shed to save the world<br />Tiny feet and tiny hands<br />With all the earth at their command<br />It must have felt strange to you<br /><br />Sweet Baby Jesus<br />Come down to love us<br />To lie in a manger<br />So far from home<br />You could have left us<br />Helpless and so lost<br />But you chose to save us<br />Sweet Baby Jesus<br /><br />The first time Mary held you close<br />All wrapped up in tattered clothes<br />Did you see tears fall from her eyes<br />Just a mother holding her first child<br /><br />Fully human, fully God<br />Full of wonder and the blood<br />That one day you would shed to save the world<br />Tiny feet and tiny hands<br />With all the earth at their command<br />Oh, it must have been strange to you<br /><br />Sweet Baby Jesus<br />Come down to love us<br />To lie in a manger<br />So far from home<br />Oh, you could have left us<br />Helpless and so lost<br />But you chose to save us<br />Sweet Baby Jesus<br /><br />Sweet Baby Jesus<br />Come down to love us<br />To lie in a manger<br />To die on a cross<br />Oh, you could have left us<br />Helpless and so, so lost<br />But you chose to save us<br />Sweet Baby Jesus<br /><br />Sweet Baby Jesus</p>" 
+    },
+    {
+      "id": 13,
+      "name_category": "Kids Song",
+      "title": "Frosty The Snowman",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "https://archive.org/download/Natalkids/track13.mp3",
+      "duration": "101",
+      "lyrics": "<p>Frosty the snowman was a jolly happy soul<br />With a corncob pipe and a button nose<br />And two eyes made out of coal<br />Frosty the snowman is a fairy tale they say<br />He was made of snow but the children know<br />that he came to life one day<br />There must have been some magic<br />in that old silk hat they found<br />For when they placed it on his head<br />He began to dance around<br />Frosty the snowman<br />Was alive as he could be<br />And the children say he could laugh and play<br />just the same as you and me<br /><br />(Thumpetty thump thump<br />Thumpety thump thump<br />Look at Frosty go<br />Thumpetty thump thump<br />Thumpety thump thump<br />Over the hills of snow)<br /><br />Frosty the snowman knew<br />The sun was hot that day<br />So he said<br />Let's run and<br />We'll have some fun<br />Now before I melt away<br />Down to the village<br />With a broomstick in his hand<br />Running here and there all around the square<br />Saying<br />Catch me if you can<br /><br />(He led them down the streets of town<br />Right to the traffic cop<br />And he only paused a moment when<br />He heard him holler)<br />For Frosty the snow man<br />Had to hurry on his way<br />But he waved goodbye saying<br />Don't you cry<br />I'll be back again some day<br />I'll be back again some day</p>" 
+    }
+  ]
+}
