@@ -2,7 +2,7 @@
   "GuideData": {
     "AdsController": [
       {
-        "NetworkAds": "applovin",
+        "NetworkAds": "pangle",
         "AdMobId": "",
         "BannerAdmob": "",
         "InterstitialAdmob": "",
@@ -13,9 +13,12 @@
         "BannerFacebook": "",
         "InterstitialFacebook": "",
         "NativeFacebook": "CAROUSEL_IMG_SQUARE_APP_INSTALL#293028792272395_293030372272237",
-         "appLovinBanner": "d140458b0adb2e80",
-          "appLovinInt": "dfb2abf91b96d9e1",
+        "appLovinBanner": "d140458b0adb2e80",
+        "appLovinInt": "dfb2abf91b96d9e1",
         "appLovinNative": "362b1ae3b90dcd4d",
+	"pangleBanner" : "unit_id",
+	"pangleInters" : "unit_id",
+	"pangleNative" : "unit_id",
         "ImageBanner": false,
         "ImageBannerImg": "",
         "ImageBannerURL": ""
