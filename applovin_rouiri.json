@@ -33,7 +33,7 @@
 
             "Ad__X__Banner": "pangle",
             "Ad__X__Native": "applovin",
-            "Ad__X__Rectangle": "applovin",
+            "Ad__X__Rectangle": "pangle",
 	    
             "applovinBanner": "34629e5ae3da7276",
             "appLovinInit": "6a172c60197364a1",
@@ -50,7 +50,7 @@
             "OnBack_ClicksTo_showAd": "5",
 
             "Ad_format_fi_detail_1": "native",
-            "Ad_format_fi_detail_2": "native",
+            "Ad_format_fi_detail_2": "rectangle",
             "Ad_format_fi_detail_3": "native",
 
             "App_suspended": "no",
