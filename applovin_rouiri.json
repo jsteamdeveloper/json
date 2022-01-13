@@ -26,16 +26,18 @@
 
             "Active_Ad_network": "applovin pangle",
 
-            "Ad__1__Interstitial": "facebook",
-            "Ad__2__Interstitial": "facebook",
-            "Ad__3__Interstitial": "facebook",
-            "Ad__4__Interstitial": "facebook",
+            "Ad__1__Interstitial": "pangle",
+            "Ad__2__Interstitial": "pangle",
+            "Ad__3__Interstitial": "pangle",
+            "Ad__4__Interstitial": "pangle",
 
-            "Ad__X__Banner": "applovin",
-            "Ad__X__Native": "facebook",
-            "Ad__X__Rectangle": "ironsource",
-             "applovinBanner": "34629e5ae3da7276",
-             "appLovinInit": "6a172c60197364a1",
+            "Ad__X__Banner": "pangle",
+            "Ad__X__Native": "applovin",
+            "Ad__X__Rectangle": "applovin",
+	    
+            "applovinBanner": "34629e5ae3da7276",
+            "appLovinInit": "6a172c60197364a1",
+	    "applovinNative": "ad_unit_id",
 	    
 	    "Pangle_Banner": "945097344",
 	    "Pangle_Inters": "945113166",
