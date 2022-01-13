@@ -24,7 +24,7 @@
             "IronSource_interstitial": "DefaultInterstitial",
             "IronSource_banner": "DefaultBanner",
 
-            "Active_Ad_network": "applovin",
+            "Active_Ad_network": "applovin pangle",
 
             "Ad__1__Interstitial": "facebook",
             "Ad__2__Interstitial": "facebook",
@@ -36,6 +36,10 @@
             "Ad__X__Rectangle": "ironsource",
              "applovinBanner": "34629e5ae3da7276",
              "appLovinInit": "6a172c60197364a1",
+	    
+	    "Pangle_Banner": "945097344",
+	    "Pangle_Inters": "945113166",
+	    "Pangle_Native": "945092256",
 
             "Show_help_toast": "yes",
 
